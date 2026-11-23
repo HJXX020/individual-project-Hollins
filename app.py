@@ -7,7 +7,7 @@ st.set_page_config(page_title="好邻舍 Hollins · 家门口的交易场", page
 
 CSS = """
 <style>
-.block-container{max-width:1100px;padding-top:1.5rem}
+.block-container{max-width:1100px;padding-top:6rem}
 .hero{background:linear-gradient(120deg,#E8F3EC,#F4F8F2);border:1px solid #D8E7DC;
       border-radius:16px;padding:24px 28px;margin-bottom:16px}
 .hero-title{font-size:28px;font-weight:700;color:#1F4D38;margin:0 0 6px}
